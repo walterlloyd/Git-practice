@@ -1,1 +1,5 @@
 Faaiz Jalil
+<<<<<<< HEAD
+=======
+purple
+>>>>>>> bfb371e (Edit name file.)
